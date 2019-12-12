@@ -1,7 +1,8 @@
 ## Linux-0.11-coder ##
+![hack001-w250](media/hack001-1.jpeg)
+
 ### RTFSC ###
-RTFSC - Read The Fucking Source Code.
-![hack001-w250](media/hack001.jpeg) 
+#### RTFSC - Read The Fucking Source Code.
 
 本代码是目前能够找到的最早的Linux的内核版本。
 
